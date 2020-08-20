@@ -1,0 +1,31 @@
+{
+    "productList": [{
+            "name": "White Shirt",
+            "imageLink": "https://cdn.shopify.com/s/files/1/0076/2819/3907/products/Vintage-Lantern-Sleeve-Autumn-Winter-Thicken-Women-Shirt-Blouses-Single-Breasted-Blouse-Female-Loose-Shirts-Tops_c92298c9-2acf-4a2a-a6e7-f7339a5fcfb3@2x.jpg?v=1568618042",
+            "price": 1500,
+            "type": "T-shirt",
+            "gender": "Female"
+        },
+        {
+            "name": "Minimalistic Shirt",
+            "imageLink": "https://i.pinimg.com/564x/b6/ce/4d/b6ce4da188476448de8fa24aeda59553.jpg",
+            "price": 2000,
+            "type": "T-shirt",
+            "gender": "Male"
+        },
+        {
+            "name": "White Sweater",
+            "imageLink": "https://i.pinimg.com/564x/0f/ad/9d/0fad9da115056c45381b73e4caf22d5c.jpg",
+            "price": 2500,
+            "type": "Sweater",
+            "gender": "Female"
+        },
+        {
+            "name": "Cream Sweet Pants",
+            "imageLink": "https://i.pinimg.com/564x/79/25/1a/79251ac7c5680c69407ad46719494487.jpg",
+            "price": 1000,
+            "type": "Pants",
+            "gender": "Female"
+        }
+    ]
+}
